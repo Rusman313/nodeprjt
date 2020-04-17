@@ -1,0 +1,31 @@
+{
+  "name": "@rusman/nodeprjt",
+  "version": "1.0.0",
+  "description": "Single pg weather app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": " node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rusman313/nodeprjt.git"
+  },
+  "keywords": [
+    "weather",
+    "node",
+    "prjt"
+  ],
+  "author": "Rafeena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rusman313/nodeprjt/issues"
+  },
+  "homepage": "https://github.com/Rusman313/nodeprjt#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.2",
+    "yards": "^0.1.4",
+    "yargs": "^15.3.1"
+  }
+}
