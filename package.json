@@ -24,7 +24,7 @@
   "homepage": "https://github.com/Rusman313/nodeprjt#readme",
   "dependencies": {
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "request": "^2.88.2",
     "yards": "^0.1.4",
     "yargs": "^15.3.1"
